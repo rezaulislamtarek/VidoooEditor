@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dpvideomerger-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Datt1994/DPVideoMerger-Swift.git",
+      "state" : {
+        "revision" : "692b25caa13d1edfb5714dcfca520164cd89d7df",
+        "version" : "1.5.10"
+      }
+    }
+  ],
+  "version" : 2
+}
